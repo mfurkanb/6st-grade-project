@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: df973f5a572c8430ea592b88ef95bd0c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "sa\u011F bacak"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 52
+        height: 201
+      alignment: 9
+      pivot: {x: 0.22410525, y: 0.8747234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da3b1a5cba7844e9a10b31da6254e68
+      internalID: -728746885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol ayak
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 93
+        width: 43
+        height: 45
+      alignment: 9
+      pivot: {x: 0.49999928, y: 0.89851546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc2e3d804bc04d9b81e4e20ebbbe25e
+      internalID: 486954717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol omuz
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 464
+        width: 58
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5618386, y: 0.31749436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f7a97261e8d4006ae751099ba0a528
+      internalID: 1534290148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sa\u011F omuz"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 468
+        width: 82
+        height: 109
+      alignment: 9
+      pivot: {x: 0.17195353, y: 0.27789223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2467725c9a54c4dabbef7ae44e99be23
+      internalID: 1909284760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sa\u011F ayak"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 94
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0.3620535, y: 0.88155675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8027df9ea304020907da9018fb8c40
+      internalID: -1332759170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol kol
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 396
+        width: 61
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5147, y: 0.77042156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89377df0f92c945eeaddfe47b61cb8a2
+      internalID: -1881770438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sa\u011F kol"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 388
+        width: 74
+        height: 76
+      alignment: 9
+      pivot: {x: 0.25766033, y: 0.74776137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2df8117d4e4d4693ba1c186f5c717b0
+      internalID: -1215261462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saol el
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 350
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45829526, y: 0.7069217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de36eb863a5a745a085b867d0e09ed35
+      internalID: 1917973722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sa\u011F el"
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 344
+        width: 53
+        height: 42
+      alignment: 9
+      pivot: {x: 0.36465454, y: 0.73484004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31931aea9addc43c0b49ed4f892f9a01
+      internalID: -2136489242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "g\xF6vde"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 347
+        width: 102
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.6810564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb67611117444caeb4acfc03bf81d2b
+      internalID: -885352897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kafa2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 458
+        width: 115
+        height: 111
+      alignment: 9
+      pivot: {x: 0.47660893, y: 0.06378779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1e7976981454a11bfd21d4a99918ee
+      internalID: -925868061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kafa1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 455
+        width: 118
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e66281bc3a94a48a6fda772aef364a
+      internalID: 137806123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol bacak
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 145
+        width: 46
+        height: 201
+      alignment: 9
+      pivot: {x: 0.7144185, y: 0.85687923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6347ec6d609a34a15bfbb2bbd704b561
+      internalID: -838329356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "g\xF6vde": -885352897
+      kafa1: 137806123
+      kafa2: -925868061
+      saol el: 1917973722
+      "sa\u011F ayak": -1332759170
+      "sa\u011F bacak": -728746885
+      "sa\u011F el": -2136489242
+      "sa\u011F kol": -1215261462
+      "sa\u011F omuz": 1909284760
+      sol ayak: 486954717
+      sol bacak: -838329356
+      sol kol: -1881770438
+      sol omuz: 1534290148
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
